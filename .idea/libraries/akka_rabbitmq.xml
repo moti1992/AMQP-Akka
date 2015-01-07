@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="akka-rabbitmq">
+    <CLASSES>
+      <root url="file://$USER_HOME$/akka-rabbitmq" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
